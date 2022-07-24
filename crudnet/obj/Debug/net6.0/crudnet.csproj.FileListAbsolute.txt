@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\crudnet\bin\Debug\net6.0\crudnet.exe
+C:\Users\User\Desktop\crudnet\bin\Debug\net6.0\crudnet.deps.json
+C:\Users\User\Desktop\crudnet\bin\Debug\net6.0\crudnet.runtimeconfig.json
+C:\Users\User\Desktop\crudnet\bin\Debug\net6.0\crudnet.dll
+C:\Users\User\Desktop\crudnet\bin\Debug\net6.0\crudnet.pdb
+C:\Users\User\Desktop\crudnet\obj\Debug\net6.0\crudnet.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\crudnet\obj\Debug\net6.0\crudnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\crudnet\obj\Debug\net6.0\crudnet.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\crudnet\obj\Debug\net6.0\crudnet.AssemblyInfo.cs
+C:\Users\User\Desktop\crudnet\obj\Debug\net6.0\crudnet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\crudnet\obj\Debug\net6.0\crudnet.dll
+C:\Users\User\Desktop\crudnet\obj\Debug\net6.0\refint\crudnet.dll
+C:\Users\User\Desktop\crudnet\obj\Debug\net6.0\crudnet.pdb
+C:\Users\User\Desktop\crudnet\obj\Debug\net6.0\crudnet.genruntimeconfig.cache
+C:\Users\User\Desktop\crudnet\obj\Debug\net6.0\ref\crudnet.dll
